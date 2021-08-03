@@ -1,6 +1,6 @@
-![TangyKiwi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TangyKiwi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)
+![TangyKiwi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TangyKiwi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TangyKiwi&title_color=fff&text_color=9f9f9f&bg_color=151515&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TangyKiwi&theme=chartreuse-dark&layout=compact)
 
 ![](https://github.com/TangyKiwi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/TangyKiwi/github-stats/blob/master/generated/languages.svg)

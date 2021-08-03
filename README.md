@@ -1,4 +1,4 @@
-[![TangyKiwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangyKiwi)]
+![TangyKiwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangyKiwi)
 
 
 <!--

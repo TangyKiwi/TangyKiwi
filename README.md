@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=TangyKiwi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ![](https://github.com/TangyKiwi/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/TangyKiwi/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/TangyKiwi/github-stats2/blob/master/generated/languages.svg)
 
 ![](https://github-profile-trophy.vercel.app/?username=TangyKiwi&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=1)
 
